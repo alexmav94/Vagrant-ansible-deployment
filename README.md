@@ -1,9 +1,11 @@
 # Telrock technical test
 
 DevOps is the set of processes (including tools) you'll use to achieve one single goal; being able to release your project in a fast and reliable way. To reach this goal, they are all the usual considerations that come with DevOps, such as:
-	Automated tests
-	Continuous Integration
-	Continuous Delivery
+
+	- Automated tests
+	- Continuous Integration
+	- Continuous Delivery
+	
 Also meet the requirements and automate as much as possible to reduce delays between ideas, implementation and release to the audience. 
 Accordingly to the above descriptiong with DevOps, Infromation Technology has been improving very well according to the past. Building a relationship between Developemt, Q&A and Operations is a new method that the team can deliver changes, various errors and many more tasks in a quicker and effectively, therefore client expectations are met upon requests. 
 Infrastructure Automation however is the feature of DevOps where its a standard process in a scripting environment that installs OS, Applications, configuring server instances to configuring how the instances and software communicate with one another and much more. 
